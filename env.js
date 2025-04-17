@@ -1,1 +1,0 @@
-export const BASE_DATA = "http://localhost:3000/products"
